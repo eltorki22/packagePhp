@@ -1,0 +1,16 @@
+{
+    "name": "package/print",
+    "description": "print sherif yehia",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Package\\Print\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "y"
+        }
+    ],
+    "require": {}
+}
